@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-group-by'
+  name: 'ember-group-by2'
 };
